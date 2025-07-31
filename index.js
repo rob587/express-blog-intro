@@ -18,31 +18,31 @@ app.get('/bacheca', (req, res) =>{
             title: "giacomo",
             contenuto: "Lorem ipsum",
             immagine: "img/fanta4.png",
-            tags: "Lorem ipsum"
+            tags: ["Lorem ipsum","Lorem ipsum","Lorem ipsum","Lorem ipsum",]
         },
         {
             title: "giacomo",
             contenuto: "Lorem ipsum",
             immagine: "img/fanta4.png",
-            tags: "Lorem ipsum"
+            tags: ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum", "Lorem ipsum",]
         },
         {
             title: "giacomo",
             contenuto: "Lorem ipsum",
             immagine: "img/fanta4.png",
-            tags: "Lorem ipsum"
+            tags: ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum", "Lorem ipsum",]
         },
         {
             title: "giacomo",
             contenuto: "Lorem ipsum",
             immagine: "img/fanta4.png",
-            tags: "Lorem ipsum"
+            tags: ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum", "Lorem ipsum",]
         },
         {
             title: "giacomo",
             contenuto: "Lorem ipsum",
             immagine: "img/fanta4.png",
-            tags: "Lorem ipsum"
+            tags: ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum", "Lorem ipsum",]
         },
         
     ]
