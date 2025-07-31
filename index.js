@@ -46,6 +46,8 @@ app.get('/list', (req, res) =>{
         },
         
     ]
+
+    res.json(list)
 })
 
 
