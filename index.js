@@ -47,7 +47,7 @@ app.get('/bacheca', (req, res) =>{
         
     ]
 
-    res.json(list)
+    res.json(bacheca)
 })
 
 
