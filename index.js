@@ -10,3 +10,6 @@ app.get('/', (req, res) =>{
     res.send('Server del mio Blog ')
 })
 
+app.listen(port, ()=>{
+    console.log('Server del mio blog')
+})
