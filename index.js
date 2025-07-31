@@ -12,8 +12,8 @@ app.get('/', (req, res)=>{
     res.send('server del mio blog')
 })
 
-app.get('/list', (req, res) =>{
-    const list =  [
+app.get('/bacheca', (req, res) =>{
+    const bacheca =  [
         {
             title: "giacomo",
             contenuto: "Lorem ipsum",
